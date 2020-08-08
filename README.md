@@ -14,9 +14,9 @@ All you need is a Free AWS Trial Account to begin!
 
 Ensure you have the following installed on your PC/VM/Container:
 *Node.JS
-*NPM with both fetch and aws-sdk (latest versions) installed
+*NPM with both fetch and aws-sdk (latest versions) 
 
-### How to Get Started:
+### :point_down: How to Get Started:
 
 Clone this Repo to your PC with the below command:
 ```
