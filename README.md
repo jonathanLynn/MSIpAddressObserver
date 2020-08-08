@@ -24,7 +24,6 @@ git clone https://github.com/jonathanLynn/MSIpAddressObserver.git
 ```
 
 Simply run the below script to build your AWS Stack:
-
 ```
 node awsstacksetup.js
 ```
