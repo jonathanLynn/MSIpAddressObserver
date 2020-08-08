@@ -6,5 +6,5 @@
 ## :page_with_curl: Updates:
 -Set Up Stack Script is currently in progress.
 
-## :page_with_curl: Known Bugs:
+## :bug: Known Bugs:
 -Issue # 1, working through asynchronous code feature that runs the DB record writing before the variable is set.
