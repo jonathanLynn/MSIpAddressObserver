@@ -7,4 +7,4 @@ Build your own stack in AWS to observe changes to Microsoft's IP addresses and s
 -Set Up Stack Script is currently in progress.
 
 ## :bug: Known Bugs:
--Issue # 1, working through asynchronous code feature that runs the DB record writing before the variable is set.
+-Issue # 1, working through asynchronous code feature that runs the DB record writing function before the variable is set.
