@@ -8,7 +8,7 @@ var params = {
   AttributeDefinitions: [
     {
       AttributeName: 'ROUTE_ID',
-      AttributeType: 'N'
+      AttributeType: 'S'
     },
     {
       AttributeName: 'ROUTE_IPv4',
