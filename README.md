@@ -7,14 +7,9 @@ All you need is a Free AWS Trial Account to begin!
 ## :bulb: Updates:
 -Set Up Stack Script is currently in progress.
 
-## :bug: Known Bugs:
--Issue # 1, working through asynchronous code feature that runs the DB record writing function before the variable is set.
-
 ## :memo: Set Up Guide:
 
-Ensure you have the following installed on your PC/VM/Container:
-*Node.JS
-*NPM with both fetch and aws-sdk (latest versions) 
+Ensure you have node.js installed with npm packages "node-fetch" and "aws-sdk".
 
 ### :point_down: How to Get Started:
 
